@@ -3,17 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.lavacry.fr/categories/</loc>
+    <loc>/post/quatrieme-post/</loc>
+    <lastmod>2018-08-09T09:39:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/troisieme-post/</loc>
+    <lastmod>2018-08-09T09:39:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/second-post/</loc>
+    <lastmod>2018-08-09T09:39:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2018-08-09T09:25:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/probleme-de-lenteur-sql-server-via-jdbc/</loc>
+    <lastmod>2012-06-13T09:29:49+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.lavacry.fr/</loc>
+    <loc>/</loc>
+    <lastmod>2018-08-09T09:39:45+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.lavacry.fr/tags/</loc>
+    <loc>/post/</loc>
+    <lastmod>2018-08-09T09:39:45+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
