@@ -1,4 +1,4 @@
-baseurl = "https://blog.lavacry.fr/"
+baseurl = "/"
 languageCode = "fr-FR"
 title = "Mon Blog"
 theme = "hugo-strata-theme"
