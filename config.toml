@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "fr-FR"
-title = "Mon Blog dev et sport"
+title = "Javacry"
 theme = "hugo-strata-theme"
 disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
@@ -13,13 +13,13 @@ pygmentsUseClasses = true
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Nicolas Lavacry"
-	description = "Blog de Nicolas Lavacry concernant le developpement informatique et le sport. Java, Javascript, AngularJS, Angular, Devops, Sport, Running, Healhty"
+	description = "Blog de Nicolas Lavacry concernant le développement informatique, le craftsmanship, l'agilité, le management et le devops. Java, Javascript, AngularJS, Angular, Devops, Agilité, Management, Craftsmanship"
 
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
 
 	# Add read time estimates in the format "X min read"
-	show_read_time = false
+	show_read_time = true
 
 	# Add custom assets with their paths relative to the static folder
 	custom_js   = []
@@ -30,7 +30,7 @@ pygmentsUseClasses = true
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "profil.png"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "**Nicolas Lavacry**<br> Lead-dev sportif."
+		bio = "**Nicolas Lavacry**<br> Lead-dev Java, mais pas que."
 		# The icons will be shown if you enter your username
 		twitter = "levaski"
 		github = "levaski"
@@ -48,13 +48,13 @@ pygmentsUseClasses = true
 
 	[params.about]
 		hide  = false
-		title = "Blog concernant le développement ainsi que le sport et tout ce qui tourne autour"
-		content = "Vous trouverez sur ce blog divers articles concernant le développement informatique (principalement Java et Angular), ainsi que des articles sur le sport."
+		title = "Nicolas Lavacry, Lead dev Java mais pas que"
+		content = "<br>Je m'appelle Nicolas Lavacry et je suis lead dev Java fullstack, scrum master, et devops<br><br>Après avoir tout d'abord travaillé chez un éditeur logiciel, puis avoir créé une entreprise dans le monde de la domotique, et avoir travaillé pour une SSII, je travaille actuellement chez LeTROT (une des deux sociétés mères du PMU) en tant que lead dev fullstack, tech lead et scrum master/chef de projet.<br><br>Dans le cadre de mon poste actuel, je suis amené à gérer des projets aussi bien pour les utilisateurs internes que pour l'institution des courses dans son ensemble (France Galop, PMU, Equidia, FNCH).<br>Je suis également en charge d'animer l'équipe de développement dans sa mise en place de normes de développement et de livraison, et de sa monté en compétence.<br>Les choix d'architecture ainsi que de l'administration des différents serveurs de recette et de production (Tomcat, Haproxy, Nginx, MongoDB, redmine, jenkins, nexus, git) font aussi partie de mon périmètre.<br>Spécialiste de la stack Java / Spring / AngularJS, je possède également un large spectre de compétences telles que REST, MongoDB, SQL, PHP... et j'ai été formé aux méthodes agiles par des pratiquants reconnus.<br><br>Véritable couteau suisse sur un projet, je peux tout à la fois aider à définir son architecture, auditer son code, coacher et former les équipes, réaliser des prototypes expérimentaux... et bien sûr participer activement à son développement."
 
 
 	[params.portfolio]
 		hide  = true
-		title = "Recent Work"
+		title = "Portfolio"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
@@ -96,7 +96,7 @@ pygmentsUseClasses = true
 
 	[params.recentposts]
 		hide  = false
-		title = "Recent blog posts"
+		title = "Derniers articles"
 
 	[params.contact]
 		hide  = true
